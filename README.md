@@ -2,8 +2,8 @@
 <h2> About me </h2>
 
 <ul> 
-    <li> Mechatronics Engineer, graduated from the <a href="http://www.unb.br">University of Brasilia</a>.</li>
-    <li> Currently studying Computer Engineering at the <a href="http://www.unb.br">University of Brasilia</a>.</li>
+    <li> Graduated in Mechatronics Engineering from the <a href="http://www.unb.br">University of Brasília (UnB)</a>.</li>
+    <li> Undergraduate in Computer Engineering at the <a href="http://www.unb.br">University of Brasília (UnB)</a>.</li>
     <li> Former researcher in autonomous vehicles, focusing on stochastic filtering.</li> 
     <li> Interested in databases, artificial intelligence, and computer vision.</li>
 </ul>
