@@ -19,9 +19,9 @@
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=fff)](https://www.erlang.org/)<br>
-[![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
 <h3>Development Tools</h3>
@@ -32,13 +32,14 @@
 
 <!-- Software Tools -->
 [![Matlab](https://img.shields.io/badge/Matlab-355C7D?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
-[![SolidWorks](https://img.shields.io/badge/SolidWorks-7A5C5C?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com)
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-%2300A9E0.svg?&style=for-the-badge&logo=autocad&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-%2300A9E0.svg?&style=for-the-badge&logo=autocad&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-7A5C5C?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com)
 
 <!-- Hardware Platforms -->
 [![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![Esp32](https://img.shields.io/badge/ESP32-%2300C6A4.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
+![Android Studio(https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://www.raspberrypi.com)
 
 <!-- 
