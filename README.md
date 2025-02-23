@@ -39,7 +39,7 @@
 <!-- Hardware Platforms -->
 [![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![Esp32](https://img.shields.io/badge/ESP32-%2300C6A4.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
-![Android Studio(https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
+[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://www.raspberrypi.com)
 
 <!-- 
