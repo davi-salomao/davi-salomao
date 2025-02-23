@@ -15,6 +15,7 @@
 [![C](https://img.shields.io/badge/C-FF5733?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Cpp](https://img.shields.io/badge/C%2B%2B-900C3F?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
 [![Python](https://img.shields.io/badge/PYTHON-FFC300?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)<br>
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=fff)](https://www.erlang.org/)<br>
