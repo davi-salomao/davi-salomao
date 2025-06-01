@@ -7,8 +7,8 @@
 
 - Graduated in Mechatronics Engineering from the [University of Brasília (UnB)](http://www.unb.br).
 - Undergraduate in Computer Engineering at the [University of Brasília (UnB)](http://www.unb.br).
-- Former researcher in autonomous vehicles, focusing on stochastic filtering.
-- Interested in databases and artificial intelligence, with a focus on computer vision.
+- Former researcher in autonomous vehicles, with a focus on stochastic filtering.
+- Interested in artificial intelligence, with a focus on computer vision.
 
 ## My Skills
 
